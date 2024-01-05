@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Smarty Bubbles 2 is an engaging and addictive bubble-shooting game that will have players hooked from the first shot. With just a mouse click, players aim and shoot colorful bubbles at a cluster of floating bubbles above. The objective is to match and pop groups of bubbles of the same color by hitting them with an accurately aimed arrow",
+  "description": "Brain Trainer" is an engaging Windows game designed to stimulate your intellect and test your IQ. Challenge your mental prowess with a diverse range of IQ questions, covering logic puzzles, mathematical riddles, word games, and more",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Smarty Bubbles 2",
+  "name": "My Brain Trainer",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Smarty Bubbles 2",
+  "short_name": "My Brain Trainer",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Smarty Bubbles 2",
+      "name": "My Brain Trainer",
       "url": "",
-      "description": "Smarty Bubbles 2 is an engaging and addictive bubble-shooting game that will have players hooked from the first shot. With just a mouse click, players aim and shoot colorful bubbles at a cluster of floating bubbles above. The objective is to match and pop groups of bubbles of the same color by hitting them with an accurately aimed arrow"
+      "description": "Brain Trainer" is an engaging Windows game designed to stimulate your intellect and test your IQ. Challenge your mental prowess with a diverse range of IQ questions, covering logic puzzles, mathematical riddles, word games, and more"
     }
   ]
 }
